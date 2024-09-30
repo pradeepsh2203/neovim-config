@@ -21,6 +21,8 @@ return {
                 "tsserver",
                 "clangd",
                 "vimls",
+                "ast_grep",
+                "jdtls"
             },
             automatic_installation = true,
             handlers = {
